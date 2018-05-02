@@ -1,0 +1,113 @@
+
+
+header{
+	font-family: Century Gothic;
+	font-size: 60px;
+	text-align: center;
+	color:white;
+	background: url(../images/img1.jpg);
+	background-size:cover;
+	width: 100%;
+	height:100%;
+	border: 1px black;
+	padding: 2%;
+}
+
+#section1{
+display: inline-block;
+margin-top: 10px;
+margin-bottom: 30px;
+margin-left:20px;
+margin-right: 700px;
+text-align: left;
+font-family: century gothic;	
+padding-top: 0px;
+padding-right: 40px;
+padding-bottom: 10px;
+padding-left: 30px;
+color:black;
+background-color: #787dd6;
+  }
+
+
+#section2{
+display: inline-block;
+margin-top: -800px;
+margin-bottom:30px;
+margin-left:20px;
+margin-right: 700px;
+text-align: left;
+padding-top: 0px;
+padding-right: 80px;
+padding-bottom: 100px;
+padding-left: 550px;
+height: 30px;
+width: 20px;
+
+}
+ 
+ nav{
+ 	margin-left: 400px; 
+ 	margin-right: 462px;
+ 	padding: 2%;
+ 	width:35%;
+ }
+	
+
+
+
+	ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #787dd6;
+    font-family:century gothic;
+    font-style:15px;
+}
+
+li {
+    float:left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: left;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #787dd6;
+
+}
+
+article{
+font-family: century gothic;
+border-style: dashed;
+border-color: #787dd6; 
+text-align: center;
+padding-top: -205px;
+padding-bottom:-205px;
+border-height: 5px;
+border-width: 9px;
+margin-right: 20px;
+margin-left: 20px;
+
+ }
+
+ 
+
+
+footer{
+	font-family: century gothic;
+	font-size: 15px;
+	text-align: left;
+	color: white;
+	padding:5px;
+	background-color:#787dd6;
+	margin:0;
+	overflow: hidden;
+	padding-left: 10px;
+}

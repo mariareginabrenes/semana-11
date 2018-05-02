@@ -1,0 +1,78 @@
+ .row{
+  display: flex;
+ }
+
+nav{
+  color: black;
+  font-family: century gothic;
+  padding-top: 50px;
+  padding-left: 20px;
+  background-color: #787dd6;
+  float: left;
+  width: 160px;
+  height: 1000px;
+  font-size: 1.4em;
+  color: white;
+  height: 600px;
+
+ }
+
+nav li{
+  font-family: century gothic;
+  font-weight: bold;
+  font-size: 30px;
+
+ }
+
+section{
+  color:black;
+  font-family: century gothic;
+  float: left;
+  width: 75%;
+  margin: 1%;
+  margin-right: 5%;
+
+  }
+
+
+ #img1{
+  background-image: cover;
+  width: 95%;
+  margin-left:30px;
+  height: 75%;
+ }
+
+ #wedding{
+ font-weight: bold;
+ font-size: 1.6em;
+ margin-top: 20px;
+ margin-left: 30px;
+ font-family: century gothic;
+ }
+
+
+ #parrafo{
+  margin-left:30px;
+  margin-top: 1%;
+  font-size: 1.1em;
+  text-align: justify;
+  font-family: century gothic
+
+ }
+
+footer{
+  background-color:#787dd6;
+    position: relative;
+  color: white;
+  border:1px;
+  clear: both;
+  text-align: center;
+  font-family: century gothic;
+  padding: 1%;
+  font-size: 20px;
+}
+
+
+
+
+

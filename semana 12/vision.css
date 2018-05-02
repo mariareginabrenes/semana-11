@@ -1,0 +1,49 @@
+
+
+.row {
+  display: flex;
+}
+
+header{
+    padding: 0.5em;
+    text-align: center;	
+    color: white;
+    background-color: #787dd6;
+    clear: left;
+    font-family: century gothic;
+    font-size: 100px;
+    font-weight:bold;
+     }
+
+  #title1{
+  	font-family: century gothic;
+  	font-size: 30px;
+  	font-weight: bold;
+  text-align: center;
+  }
+
+ .column-2 {
+  flex: 1;
+  border:1px #787dd6;
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+}
+
+
+
+#imagen1{
+	height: 400px;
+	width: 300px;
+	padding-top: 22px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+
+#imagen2{
+	height: 450px;
+	width: 330px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+}
